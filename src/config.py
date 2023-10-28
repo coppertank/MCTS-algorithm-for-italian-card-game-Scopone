@@ -1,0 +1,6 @@
+# Window settings
+
+WINDOW_HEIGHT = 800
+WINDOW_WIDTH = 1000
+FPS = 60
+FONT_SIZE = 36
